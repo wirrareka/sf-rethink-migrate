@@ -1,0 +1,27 @@
+{
+  "name": "sf-rethink-migrate",
+  "version": "0.9.0",
+  "description": "Soundfile.io Automatic RethinkDB table & index generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./test.js"
+  },
+  "keywords": [
+    "rethinkdb",
+    "soundfile"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/npm/npm.git"  
+  },
+  "author": "Matej Drzik <matej@soundfile.io>, Soundfile.io",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0",
+    "rethinkdbdash": "^2.3.28"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
