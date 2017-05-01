@@ -65,7 +65,7 @@ module.exports = (r, _schema) => {
         });
     } else {
       // table exists, get existing indices
-      getIndices()
+      getIndices(table)
         .then(out);
     }
   };

@@ -1,6 +1,6 @@
 {
   "name": "sf-rethink-migrate",
-  "version": "0.9.0",
+  "version": "0.9.1",
   "description": "Soundfile.io Automatic RethinkDB table & index generator",
   "main": "index.js",
   "scripts": {
