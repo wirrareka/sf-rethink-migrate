@@ -1,5 +1,7 @@
 # sf-rethink-migrate
 
+[![Build Status](https://travis-ci.org/wirrareka/sf-rethink-migrate.svg?branch=master)](https://travis-ci.org/wirrareka/sf-rethink-migrate)
+
 ## About
 This is a Node.js module using RethinkDBDash driver to automatically create tables and indexes in provided database;
 
